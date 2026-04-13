@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #1637A0;
+    --color-secondary: #C0F2F3;
+    --font-montserrat: "Montserrat", sans-serif;
+    --font-yeseva: "Yeseva One", serif;
+}
