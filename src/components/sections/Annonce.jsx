@@ -44,7 +44,8 @@ export default function Listings() {
                     </span>
 
                     <h2 className="text-4xl sm:text-5xl font-yeseva leading-tight">
-                        Découvrez les meilleurs biens immobiliers
+                        Découvrez les meilleurs biens immobiliers disponible
+                        dans notre agence
                     </h2>
 
                     <p className="text-gray-500 text-base sm:text-lg">
