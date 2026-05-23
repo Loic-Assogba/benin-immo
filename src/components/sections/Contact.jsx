@@ -19,12 +19,12 @@ export default function ContactSection() {
         e.preventDefault();
 
         const message = `
-📩 Nouvelle demande de contact
+ Nouvelle demande de contact
 
-👤 Nom : ${formData.nom}
-📧 Email : ${formData.email}
+ Nom : ${formData.nom}
+ Email : ${formData.email}
 
-📝 Message :
+ Message :
 ${formData.message}
         `;
 
@@ -84,7 +84,7 @@ ${formData.message}
                                     Téléphone
                                 </p>
                                 <p className="font-medium">
-                                    +229 01 67 56 66 87
+                                    +229 01 XX XX XX XX
                                 </p>
                             </div>
                         </div>
