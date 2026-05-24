@@ -2,6 +2,7 @@ import Header from './components/sections/Header';
 import Hero from './components/sections/Hero';
 import Annonce from './components/sections/Annonce';
 import Contact from './components/sections/Contact';
+import Footer from './components/sections/Footer';
 
 function App() {
     return (
@@ -10,6 +11,7 @@ function App() {
             <Hero />
             <Annonce />
             <Contact />
+            <Footer />
         </main>
     );
 }
